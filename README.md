@@ -1,4 +1,4 @@
-# vue-ts
+# vue-carousel
 
 ## Project setup
 ```
