@@ -1,13 +1,21 @@
 {
   "name": "@63pokupki/vue-carousel",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "author": {
     "name": "63pokupki"
   },
+  "main": "dist/vue-carousel.min.js",
   "scripts": {
     "build": "webpack --config webpack.prod.js"
   },
+  "keywords": [
+    "Vue",
+    "carousel",
+    "slider",
+    "responsive"
+  ],
+  "license": "MIT",
   "dependencies": {
     "global": "^4.3.2",
     "regenerator-runtime": "^0.12.1",
