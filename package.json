@@ -1,9 +1,9 @@
 {
   "name": "@63pokupki/vue-carousel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "author": {
-      "name": "63pokupki"
+    "name": "63pokupki"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
